@@ -1,0 +1,31 @@
+[{
+    "Nombre":"Matias",
+    "Apellido":"Macijaukas",
+    "Edad": 21,
+    "Altura": 1.75,
+    "sexo" : "M",
+    "Vivo" : true,
+    "historial":[
+    {
+        "Nacionalidad": "Argentina",
+        "Mayor de edad": true,
+        "Pasaporte activo": false
+    }
+]
+},
+{
+    "Nombre":"Nicolas",
+    "Apellido":"Macijaukas",
+    "Edad": 19,
+    "Altura": 1.87,
+    "sexo" : "M",
+    "Vivo" : true,
+    "historial":[
+    {
+        "Nacionalidad": "Argentina",
+        "Mayor de edad": true,
+        "Pasaporte activo": false
+    }
+]
+}
+]
